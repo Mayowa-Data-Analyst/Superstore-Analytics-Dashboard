@@ -24,6 +24,8 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 
 #### Insight:
 The company is growing without a significant decline in profitability.
+#### Business Suggestion
+- Maintain current pricing and discount strategies that support profitable growth
 
 ### 2. Sales Trend Over Time
 - Sales continues to consistently outperform the previous year sales
@@ -31,6 +33,9 @@ The company is growing without a significant decline in profitability.
   
 #### Insight:
 Growth appears to be consistent rather than driven by a one-time spikes in sales over the year period
+#### Suggestion
+- Use historical peak periods to improve demand forecasting and align marketing campaign accordinly
+- Increase inventory levels and staffing ahead of known high-demand periods.
 
 ### 3. Product Profitability
 - Technology products contribute the highest share of profit
@@ -39,6 +44,9 @@ Growth appears to be consistent rather than driven by a one-time spikes in sales
   
 #### Insight:
 Not all products contribute equally to profitability, and some categories may need further review.
+#### Suggestions
+- Prioritize inventory availability for high-performing Technology products
+- Consider reducing promotions or discontinuing persistently unprofitable products.
 
 ### 4. Customer Segment Analysis
 - The Consumer segment accounts for the largest share of sales
@@ -46,6 +54,8 @@ Not all products contribute equally to profitability, and some categories may ne
 
 #### Insight:
 The business relies heavily on consumer sales, with potential to grow other segments.
+#### Suggestions
+
 
 ### 5. Regional Performance
 - Profitability varies significantly by state with state like California and New York having the highest sales revenue and states like Illinois and Texas generating the lowest revenue
