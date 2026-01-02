@@ -50,13 +50,7 @@ The business relies heavily on consumer sales, with potential to grow other segm
 ### 5. Regional Performance
 - Profitability varies significantly by state with state like California and New York having the highest sales revenue and states like Illinois and Texas generating the lowest revenue
 - A small number of states generate a large share of total profit
-
-Insight:
+  
+#### Insight:
 Regional performance is uneven, suggesting opportunities for region-specific strategies.
 
-6️⃣ Operational Efficiency
-
-Average processing time remains mostly unchanged year-over-year
-
-Insight:
-Operational efficiency has remained stable despite increased sales volume.
