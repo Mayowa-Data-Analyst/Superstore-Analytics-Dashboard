@@ -22,27 +22,20 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 - The business recorded strong growth during the selected period: Sales and profit both increased by approximately 47–48% year-on-year indicating business expansion and growth.
 - Growth in profit closely matches sales growth, indicating healthy performance
 
-### Insight:
+#### Insight:
 The company is growing without a significant decline in profitability.
 
-## 2. Sales Trend Over Time
+### 2. Sales Trend Over Time
+- Sales continues to consistently outperform the previous year sales
+- Peak periods continues to repeat annually but an even higher levels each year
+#### Insight:
+Growth appears to be consistent rather than driven by a one-time spikes in sales over the year period
 
-Sales consistently outperform the previous year
-
-Peak periods repeat annually but reach higher levels each year
-
-Insight:
-Growth appears consistent rather than driven by one-time spikes.
-
-3️⃣ Product Profitability
-
-Technology products contribute the highest share of profit
-
-Office Supplies provide steady but moderate profit
-
-Some Furniture sub-categories generate losses
-
-Insight:
+### 3. Product Profitability
+- Technology products contribute the highest share of profit
+- Office Supplies provide steady but moderate profit
+- Furniture sub-categories performs the least with  table category generating significant loss
+#### Insight:
 Not all products contribute equally to profitability, and some categories may need further review.
 
 4️⃣ Customer Segment Analysis
