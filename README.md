@@ -28,6 +28,7 @@ The company is growing without a significant decline in profitability.
 ### 2. Sales Trend Over Time
 - Sales continues to consistently outperform the previous year sales
 - Peak periods continues to repeat annually but an even higher levels each year
+  
 #### Insight:
 Growth appears to be consistent rather than driven by a one-time spikes in sales over the year period
 
@@ -35,23 +36,20 @@ Growth appears to be consistent rather than driven by a one-time spikes in sales
 - Technology products contribute the highest share of profit
 - Office Supplies provide steady but moderate profit
 - Furniture sub-categories performs the least with  table category generating significant loss
+  
 #### Insight:
 Not all products contribute equally to profitability, and some categories may need further review.
 
-4️⃣ Customer Segment Analysis
+### 4. Customer Segment Analysis
+- The Consumer segment accounts for the largest share of sales
+- Corporate and Home Office segments contribute smaller but meaningful portions
 
-The Consumer segment accounts for the largest share of sales
-
-Corporate and Home Office segments contribute smaller but meaningful portions
-
-Insight:
+#### Insight:
 The business relies heavily on consumer sales, with potential to grow other segments.
 
-5️⃣ Regional Performance
-
-Profitability varies significantly by state
-
-A small number of states generate a large share of total profit
+### 5. Regional Performance
+- Profitability varies significantly by state with state like California and New York having the highest sales revenue and states like Illinois and Texas generating the lowest revenue
+- A small number of states generate a large share of total profit
 
 Insight:
 Regional performance is uneven, suggesting opportunities for region-specific strategies.
