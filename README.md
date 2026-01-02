@@ -19,14 +19,13 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 ---
 ## Dashboard Insights
 ### 1. Overall Performance
-- The business recorded strong growth during the selected period:
-    Sales and profit both increased by approximately 47–48% year-over-year
-    Growth in profit closely matches sales growth, indicating healthy performance
+- The business recorded strong growth during the selected period: Sales and profit both increased by approximately 47–48% year-on-year indicating business expansion and growth.
+- Growth in profit closely matches sales growth, indicating healthy performance
 
-Insight:
+### Insight:
 The company is growing without a significant decline in profitability.
 
-2️⃣ Sales Trend Over Time
+## 2. Sales Trend Over Time
 
 Sales consistently outperform the previous year
 
