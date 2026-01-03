@@ -84,6 +84,7 @@ Regional performance is uneven, suggesting opportunities for region-specific str
 
 ## Conclusion
 This project analysis superstore dataset to understand performance across time, profits, segments, regions and products. The business shows strong year on year growth across sales and profits increasing at similar rates.
+
 Regional analysis suggest uneven profitability across states, suggesting the need for region specific focus. Certain Products shows constant profitability such as products across technology categories while other product categories such as furnitures generate more losses indicating there is need for further review. The Consumer segment drives the highest sales volume, but Corporate and Home Office segments present opportunities for more targeted growth strategies.
 The project shows key drivers of performance and areas for improvement, providing a foundation for deeper analysis and better decision-making.
 
