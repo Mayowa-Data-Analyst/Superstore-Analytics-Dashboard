@@ -21,7 +21,11 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 - PowerBI Desktop
 ---
 ## DATASET
-This is a superstore datase gotten from Kaggle with over 9k+ rows
+This is a superstore dataset gotten from Kaggle[Download Here](#https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales) with over 9k+ rows which include information on Orders, customers, products, locations, sales, profits etc.
+
+This data is used solely for learning purposes
+
+---
 ## Dashboard Insights
 ### 1. Overall Performance
 - The business recorded strong growth during the selected period: Sales and profit both increased by approximately 47–48% year-on-year indicating business expansion and growth.
