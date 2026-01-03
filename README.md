@@ -24,6 +24,9 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 This is a superstore dataset gotten from Kaggle [Download Here](Data/Superstore.csv) with over 9k+ rows which include information on Orders, customers, products, locations, sales, profits etc.
 
 This data is used solely for learning purposes
+---
+## Dashboard
+[View Dashboard](Dashboard/Superstoreeee.png)
 
 ---
 ## Dashboard Insights
