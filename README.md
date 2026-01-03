@@ -68,4 +68,9 @@ Regional performance is uneven, suggesting opportunities for region-specific str
 - Increase sales focus and marketing campaigns in high performing states
 - Perform further analysis on whether losses are driven by various other factors such as returns, discounts or high fulfillment costs in low performing regions
 
+---
+
+## Conclusion
+
+
 
