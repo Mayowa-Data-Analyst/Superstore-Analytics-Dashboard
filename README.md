@@ -34,7 +34,7 @@ This data is used solely for learning purposes
 
 ---
 ## Dashboard
-[View Dashboard](Dashboard/Superstoreeee.png)
+[View Dashboard](Dashboard/Superstore real.png)
 
 ---
 ## Dashboard Insights
