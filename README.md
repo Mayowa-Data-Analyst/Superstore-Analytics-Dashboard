@@ -1,6 +1,13 @@
 # Superstore Sales Analysis
 ---
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Tools Used](#tools-used)
+- [Data Source](#data- Source)
+- [Dashboard](#dashboard)
+- [Dashboard Insights](#dashboard-insights)
+- [Conclusion](#conclusion)
 
 ---
 ## Project Overview
@@ -20,10 +27,11 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 - PowerBi Pwer Query
 - PowerBI Desktop
 ---
-## DATASET
+## Data Source
 This is a superstore dataset gotten from Kaggle [Download Here](Data/Superstore.csv) with over 9k+ rows which include information on Orders, customers, products, locations, sales, profits etc.
 
 This data is used solely for learning purposes
+
 ---
 ## Dashboard
 [View Dashboard](Dashboard/Superstoreeee.png)
