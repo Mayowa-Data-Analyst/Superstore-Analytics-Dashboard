@@ -1,5 +1,8 @@
 # Superstore Sales Analysis
 ---
+## Table of Content
+
+---
 ## Project Overview
 This project analyses superstore data to understand business performance across different key metrics such as total sales, quantities sold and analyse growth trends, product profitability, customer segments, and regional performance.
 The goal of the project is to practice exploratory data analysis and dashboard storytelling, and to present insights in a clear and business-focused way
@@ -17,6 +20,8 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 - PowerBi Pwer Query
 - PowerBI Desktop
 ---
+## DATASET
+This is a superstore datase gotten from Kaggle with over 9k+ rows
 ## Dashboard Insights
 ### 1. Overall Performance
 - The business recorded strong growth during the selected period: Sales and profit both increased by approximately 47–48% year-on-year indicating business expansion and growth.
