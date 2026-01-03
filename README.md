@@ -21,7 +21,7 @@ The goal of the project is to practice exploratory data analysis and dashboard s
 - PowerBI Desktop
 ---
 ## DATASET
-This is a superstore dataset gotten from Kaggle[Download Here](Data/Superstore.csv) with over 9k+ rows which include information on Orders, customers, products, locations, sales, profits etc.
+This is a superstore dataset gotten from Kaggle [Download Here](Data/Superstore.csv) with over 9k+ rows which include information on Orders, customers, products, locations, sales, profits etc.
 
 This data is used solely for learning purposes
 
