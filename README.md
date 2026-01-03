@@ -44,7 +44,7 @@ Growth appears to be consistent rather than driven by a one-time spikes in sales
   
 #### Insight:
 Not all products contribute equally to profitability, and some categories may need further review.
-#### Suggestions
+#### Suggestions:
 - Prioritize inventory availability for high-performing Technology products
 - Consider reducing promotions or discontinuing persistently unprofitable products.
 
@@ -54,8 +54,9 @@ Not all products contribute equally to profitability, and some categories may ne
 
 #### Insight:
 The business relies heavily on consumer sales, with potential to grow other segments.
-#### Suggestions
-
+#### Suggestions:
+- Assign dedicated targeted email campaigns towards corporate and home office segment
+- Develop targeted promotions or loyalty programs to retain Consumer customers with high volume 
 
 ### 5. Regional Performance
 - Profitability varies significantly by state with state like California and New York having the highest sales revenue and states like Illinois and Texas generating the lowest revenue
@@ -63,4 +64,8 @@ The business relies heavily on consumer sales, with potential to grow other segm
   
 #### Insight:
 Regional performance is uneven, suggesting opportunities for region-specific strategies.
+#### Suggestions:
+- Increase sales focus and marketing campaigns in high performing states
+- Perform further analysis on whether losses are driven by various other factors such as returns, discounts or high fulfillment costs in low performing regions
+
 
