@@ -11,8 +11,7 @@
 
 ---
 ## Project Overview
-This project analyses superstore data to understand business performance across different key metrics such as total sales, quantities sold and analyse growth trends, product profitability, customer segments, and regional performance.
-The goal of the project is to practice exploratory data analysis and dashboard storytelling, and to present insights in a clear and business-focused way
+Delivered a business-centric sales analytics dashboard for a Superstore dataset that highlights key growth trends, customer segmentation insights, region-wise performance, and profitability levers to prioritize sales initiatives.
 
 ---
 ## Project Objectives
